@@ -1,0 +1,13 @@
+{
+    "name": "dizyart/cakephp-viewautoload",
+    "type": "cakephp-plugin",
+    "description": "ViewAutoload for CakePHP",
+    "keywords": ["cakephp","autoload"],
+    "license": "MIT",
+    "require": {
+        "composer/installers": "*"
+    },
+    "extra": {
+        "installer-name": "ViewAutoload"
+	}    
+}
